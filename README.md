@@ -39,4 +39,4 @@ After spending ~30 minutes on this I decided that it would be more fun and more 
 I made the call to use the NumPy and queue libraries. For both libraries I made use of the docs.
 For testing I used the unittest library, and again made use of the docs.
 
-Writing and working out the core logic of the algorithm was done in under 2 hours. Adding tests took me over the 2 hours, and I don't know why but I then decided to add doc strings _(which don't add much/anything to such a simple project...)_.
+Writing and working out the core logic of the algorithm was done in under 2 hours. Adding tests took me a little over the 2 hours, and I don't know why but I then decided to add doc strings _(which don't add much/anything to such a simple project...)_. I probably should have spent that time redoing the testing!
